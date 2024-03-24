@@ -228,3 +228,5 @@ if __name__ == '__main__':
                         func()
                     else:
                         print("Opção inválida, por favor escolha uma opção válida.")
+                        
+#o luca é bacana
